@@ -6,6 +6,7 @@ function App() {
       <ChatbotInterface />
     </div>
   );
+  
 }
 
 export default App;
